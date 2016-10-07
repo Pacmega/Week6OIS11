@@ -1,0 +1,9 @@
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr2\bin\Debug\Opdr2.exe.config
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr2\bin\Debug\Opdr2.exe
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr2\bin\Debug\Opdr2.pdb
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr2\obj\Debug\Opdr2.csprojResolveAssemblyReference.cache
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr2\obj\Debug\Opdr2.Form1.resources
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr2\obj\Debug\Opdr2.Properties.Resources.resources
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr2\obj\Debug\Opdr2.csproj.GenerateResource.Cache
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr2\obj\Debug\Opdr2.exe
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr2\obj\Debug\Opdr2.pdb

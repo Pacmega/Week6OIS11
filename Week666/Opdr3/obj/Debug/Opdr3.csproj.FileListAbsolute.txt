@@ -1,0 +1,8 @@
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr3\bin\Debug\Opdr3.exe.config
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr3\bin\Debug\Opdr3.exe
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr3\bin\Debug\Opdr3.pdb
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr3\obj\Debug\Opdr3.Form1.resources
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr3\obj\Debug\Opdr3.Properties.Resources.resources
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr3\obj\Debug\Opdr3.csproj.GenerateResource.Cache
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr3\obj\Debug\Opdr3.exe
+c:\Users\Bas\documents\visual studio 2015\Projects\Week666\Opdr3\obj\Debug\Opdr3.pdb

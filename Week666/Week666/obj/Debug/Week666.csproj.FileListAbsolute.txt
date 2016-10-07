@@ -1,0 +1,9 @@
+c:\users\bas\documents\visual studio 2015\Projects\Week666\Week666\bin\Debug\Week666.exe.config
+c:\users\bas\documents\visual studio 2015\Projects\Week666\Week666\bin\Debug\Week666.exe
+c:\users\bas\documents\visual studio 2015\Projects\Week666\Week666\bin\Debug\Week666.pdb
+c:\users\bas\documents\visual studio 2015\Projects\Week666\Week666\obj\Debug\Week666.csprojResolveAssemblyReference.cache
+c:\users\bas\documents\visual studio 2015\Projects\Week666\Week666\obj\Debug\Week666.Form1.resources
+c:\users\bas\documents\visual studio 2015\Projects\Week666\Week666\obj\Debug\Week666.Properties.Resources.resources
+c:\users\bas\documents\visual studio 2015\Projects\Week666\Week666\obj\Debug\Week666.csproj.GenerateResource.Cache
+c:\users\bas\documents\visual studio 2015\Projects\Week666\Week666\obj\Debug\Week666.exe
+c:\users\bas\documents\visual studio 2015\Projects\Week666\Week666\obj\Debug\Week666.pdb
